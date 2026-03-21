@@ -32,4 +32,3 @@ Current scripts:
 - Xeno [https://xeno.now/] <-- PC ONLY!
 - Solara [https://wearedevs.net/d/Solara] <-- PC ONLY!
 - Delta [https://wearedevs.net/d/Delta] <-- ANDROID ONLY!
-- Pluto [https://wearedevs.net/d/Pluto] <-- PC + Android! (LOADSTRING)
