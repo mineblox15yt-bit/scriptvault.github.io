@@ -13,6 +13,8 @@ Current scripts:
 - Nuke Button
 - HD Admin EXPLOIT (SUPER OP)
 - Aim Bot
+- Zack's Service Station Auto Farm
+- Minecraft Dupe
 
 # How to use
 
