@@ -12,6 +12,7 @@ Current scripts:
 - Dex Explorer
 - Nuke Button
 - HD Admin EXPLOIT (SUPER OP)
+- Aim Bot
 
 # How to use
 
